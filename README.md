@@ -1,7 +1,7 @@
 <h1 align="center">Hey, i'm Eclipse</h1>
 <h3 align="center">A developer in constantly developing</h3>
 
-- 🌱 I’m currently learning **everything, but specifically Rust and game development in unity**
+- 🌱 I’m currently learning ** game development in c++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/InEclipsee](https://github.com/InEclipsee)
 
